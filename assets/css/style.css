@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@800&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -429,5 +430,10 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+.site-title { font-family: 'Spartan', sans-serif; }
+
+.page-link { font-family: 'Helvetica', sans-serif; font-weight: bold; }
+
+.page-content { font-family: 'Helvetica', sans-serif; }
 
 /*# sourceMappingURL=style.css.map */
