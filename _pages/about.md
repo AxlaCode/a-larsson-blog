@@ -4,8 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+## WORK
+* *2019-2020* Intern at Jan Knippers Ingenieure
+* *2019* Intern at Design-To-Production
 
 
+## EDUCATION
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+* *2016-2019* Architecture & Engineering, Bsc, Chalmers University of Technology, Gothenburg
+* *2015-2016* Studies in Photographic Arts, Valand Academy, Gothenburg
+ 
+
