@@ -9,3 +9,18 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 //@import "minima/fastpages-dracula-highlight"; 
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@800&display=swap');
+
+
+.site-title {
+    font-family: 'Spartan', sans-serif;
+}
+
+.page-link {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+}
+
+.page-content{
+    font-family: 'Helvetica', sans-serif;
+}
