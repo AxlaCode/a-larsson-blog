@@ -436,4 +436,8 @@ pre code { font-size: 15px !important; }
 
 .page-content { font-family: 'Helvetica', sans-serif; }
 
+body { font-family: 'Helvetica', sans-serif; }
+
+.post-title { font-family: 'Helvetica', sans-serif; font-weight: bold; }
+
 /*# sourceMappingURL=style.css.map */
