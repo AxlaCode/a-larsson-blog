@@ -430,7 +430,7 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.site-title { font-family: 'Spartan', sans-serif; }
+.site-title { font-family: 'Spartan', sans-serif; color: #111111; }
 
 .page-link { font-family: 'Helvetica', sans-serif; font-weight: bold; }
 
