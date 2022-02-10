@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Good BASH commands to know",
-            "content": "Give permissions to run bash script . chmod a+x script.sh . Use this if you get a Permission denied error. .",
+            "content": "Give permissions to run bash script . chmod a+x script.sh . Use this if you get a Permission denied error. . Write and append to files . Write to a file using the &gt; command. . script &gt; run.log . The print statements of the script will be outputted to run.log. . Append to a file using the &gt;&gt; command. . script &gt;&gt; run.log . This is useful if you have loops and want to store the outputs of each loop. . Remove files . rm -rf script .",
             "url": "https://axlacode.github.io/a-larsson-blog/jupyter/2022/02/09/GoodBashCommands.html",
             "relUrl": "/jupyter/2022/02/09/GoodBashCommands.html",
             "date": " • Feb 9, 2022"
